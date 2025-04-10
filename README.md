@@ -8,7 +8,7 @@ The dashboard is designed to help stakeholders quickly assess business performan
 <h2>Tools & Techniques Used</h2>
 
 - Power BI Desktop
-- Power Query (M Language)
+- Power Query
 - DAX (Data Analysis Expressions)
 - Data Modelling and Relationships
 

@@ -9,7 +9,7 @@ The dashboard is designed to help stakeholders quickly assess business performan
 
 - Power BI Desktop
 - Power Query
-- DAX (Data Analysis Expressions)
+- DAX 
 - Data Modelling and Relationships
 
 <h2>Key Features & Metrics</h2>
